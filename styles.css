@@ -187,7 +187,7 @@
 }
 
 .btn .modal::before {
-  content: 'To open app download Expo Go from App Store or Google Play and scan BarCode';
+  content: 'To open app download Expo from App Store or Google Play and scan BarCode';
   color: #fff;
   padding: 15px;
   -webkit-box-pack: center;
